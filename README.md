@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+## 🚀 My Skills
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,git,nextjs,nodejs,mysql,&perline=20)](https://skillicons.dev)
 <!--
 **ssergiofeitosa/ssergiofeitosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
