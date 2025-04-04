@@ -4,7 +4,9 @@
 
 ###
 
-
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+</div>
 
 ###
 
@@ -16,7 +18,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m an Computer <br>Engineering undergraduate<br>- 📚 I'm currently learning React/Nextjs<br>- 📚 delving into web development</p>
+<p align="left">- 🔭 I’m an Computer <br>Engineering undergraduate<br>- 📚 I'm currently learning React/Nextjs<br>-delving into web development</p>
 
 ###
 
@@ -42,6 +44,10 @@
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
 </div>
 
 ###
