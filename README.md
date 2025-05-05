@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m an Computer <br>Engineering undergraduate<br>- 📚 I'm currently learning React/Nextjs<br>- Delving into web development</p>
+<p align="left">- 🔭 I’m an Computer <br>Engineering undergraduate<br>- 📚 I'm currently learning React/Nextjs and Node.js<br>- Delving into web development</p>
 
 ###
 
